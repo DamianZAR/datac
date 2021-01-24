@@ -1,7 +1,7 @@
 Program Name: weekproject_geme.py
 
 What does? It has two jobs, With the specific indications,
-you can obtain a password, or encrypt and decript a message according to the programa system
+you can obtain a password, or encrypt and decrypt a message according to the programa system
 which has pre-installed.
 
 How does it work? You have to choose if you want to generate a password or encyprt/decrypt a message.
